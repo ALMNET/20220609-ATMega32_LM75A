@@ -4,5 +4,7 @@
 
 LIB_TWI.c
 
+LIB_UART.c
+
 main.c
 
